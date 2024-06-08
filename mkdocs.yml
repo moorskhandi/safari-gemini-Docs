@@ -1,0 +1,64 @@
+site_name: Safari Gemini User Guide
+site_url: https://safarigemini.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Guide: home.md
+
+theme:
+  name: material
+  logo: image/safari-gemini-transparent-logo.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: brown
+      accent: lime 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: brown
+      accent: lime
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/GeminiSafari
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/safari-gemini-3bb186302/
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+# plugins:
+#   - search
+#   - i18n:
+#       default_language: en
+#       languages:
+#         en: English
+#         sw: Swahili
+#         fr: French
+#         it: Italian
+
+# markdown_extensions:
+#   - admonition
+#   - codehilite
+#   - footnotes
+#   - meta
+#   - toc:
+#       permalink: true
