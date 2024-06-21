@@ -95,3 +95,7 @@ The system will be now redirect you to the dashboard after a succesfull Sign Up/
 
 ![Registration complete](image/image10.png)
 
+### Trips
+
+
+### Clients
