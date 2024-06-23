@@ -91,11 +91,109 @@ login credentials
 ![Login](image/image11.png)
 
 ### Dashboard
-The system will be now redirect you to the dashboard after a succesfull Sign Up/Login
+
+After a successful Sign Up or Login, the system will redirect you to the dashboard. The dashboard serves as the central hub for managing all aspects of your operations, from trips and clients to payments and exports.
 
 ![Registration complete](image/image10.png)
 
 ### Trips
+The Trips section is where you manage all your trip-related activities. 
+It is divided into several categories to help you organize and track the status of each trip efficiently.
 
+![Trips](image/image12.png)
+
+##### PROSPECTIVE TRIPS
+Prospective Trips are trips that are in the initial stages of planning. These are potential bookings where clients have shown interest but have not yet confirmed.
+
+* Review client inquiries and initial details.
+
+* Communicate with clients to gather more information and provide preliminary itineraries.
+
+
+##### FORM RECEIVED / ITINERARY SENT
+This category includes trips for which the initial forms have been received, and an itinerary has been sent to the client.
+
+* Ensure all required information is collected from clients.
+* Prepare and send detailed itineraries.
+* Follow up with clients to answer any questions and confirm details.
+
+
+##### IN COMMUNICATION
+Trips that are in the discussion phase with clients, where details are being negotiated and finalized.
+
+* Address any concerns or requests from clients.
+* Finalize the trip details and prepare for confirmation.
+
+
+##### CONFIRMED
+Trips that have been confirmed by clients and are set to proceed as planned.
+
+* Coordinate with service providers such as drivers and tour guides.
+* Ensure all bookings (flights, hotels, activities) are confirmed.
+* Prepare necessary documents like visas, kits, and flight tickets.
+
+##### CANCELLED
+Trips that have been cancelled by the client or the operator.
+
+* Manage any cancellations and process refunds if applicable.
+* Update records and notify relevant stakeholders of the cancellation.
+
+
+##### GHOSTED
+Trips where the client has stopped responding or communicating.
+
+* Attempt to re-establish contact with the client.
+* Keep records updated and consider the trip as inactive if no response is received.
+
+
+### Calendar
+The Calendar section provides a visual representation of all scheduled trips and activities. It allows you to manage and view upcoming trips and important dates efficiently.
+
+![calendar page](image/image13.png)
 
 ### Clients
+
+![clients page](image/image14.png)
+
+* Client Profiles: Create and manage detailed profiles.
+* Communication Logs: Track all communications with clients.
+* Feedback and Reviews: Collect and analyze feedback.
+
+### Customer Payments
+The Customer Payments section helps you manage payments made by clients.
+
+* Payment Tracking: Track all payments received from clients.
+* Payment Methods: Support for multiple payment methods.
+* Payment History: View the history of all transactions.
+
+![customer payments](image/image15.png)
+
+### Payment Schedule
+The Payment Schedule section allows you to plan and manage payment schedules for your clients.
+
+* Scheduled Payments: View and manage upcoming scheduled payments.
+* Due Dates: Track payment due dates to ensure timely payments.
+* Payment Reminders: Send reminders to clients about upcoming payments.
+
+![payment schedule](image/image16.png)
+
+### Export
+The Export section provides tools to generate important documents for your clients with a download option.
+
+#### Invoice
+Generate detailed invoices for the services provided to your clients.
+
+![Invoice page](image/image17.png)
+
+#### Receipt
+Create and issue receipts for payments received.
+
+![Receipt page](image/image18.png)
+
+#### Reservation Voucher
+Produce reservation vouchers for confirmed bookings, including all relevant details for the client.
+
+![Reservation voucher](image/image19.png)
+
+### Account Settings
+
