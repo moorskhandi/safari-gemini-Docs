@@ -97,10 +97,10 @@ After a successful Sign Up or Login, the system will redirect you to the dashboa
 ![Registration complete](image/image10.png)
 
 
-## Admin Panel
+### Admin Panel
 The Admin Panel in Safari Gemini is a robust feature that allows administrators to manage various aspects of the platform. It provides tools to control company details, manage users and partners, oversee drivers, manage client sources, and handle forex operations.
 
-### Company details
+#### Company details
 The Company Details section allows you to manage and update the fundamental information about your organization.
 Ensure all company information is accurate and up-to-date.
 
@@ -109,10 +109,14 @@ Ensure all company information is accurate and up-to-date.
 * Contact Information: Manage the primary contact details, including phone numbers and email addresses.
 * Logo: Upload or update your company logo for branding purposes.
 
-### Users
-The Users section is where you manage all the users within your organization. This includes adding new users, assigning roles, and managing permissions.
+![company details](image/image20.png)
 
-* User Roles: Assign different roles with specific permissions.
+#### Users
+The Users section is where you manage all the users within your organization. This includes adding new users, assigning roles, and managing permissions.
+Assigning roles to users is essential for enabling access to other tools and features within the platform after the first login.
+
+User Roles:- Assign different roles with specific permissions
+
 1. ACCOUNTANT
 2. DRIVER
 3. TRIP MANAGER
@@ -121,36 +125,45 @@ The Users section is where you manage all the users within your organization. Th
 6. GUIDE
 7. ADMIN 
 
+![users](image/image21.png)
+
 * User Management: Add, edit, or remove users from the platform.
 * Access Control: Define and manage what each role can access and modify within the platform.
 * Manage Permissions: Regularly review and update user roles and permissions to ensure proper access control.
 
-### Partners
+#### Partners
 The Partners section allows you to manage relationships with external partners, such as travel agencies, vendors, and service providers.
 
-* Add Partners: Add new partners to the system with all relevant details.
+* Add Partners: Add new partners to the system with all relevant details on the (+) icon from the forms navbar section.
 * Update Information: Keep partner profiles up-to-date with the latest information.
 * Review Contracts: Ensure all partner agreements are current and accurately reflected in the system.
 
-### Drivers
+![partners](image/image22.png)
+
+#### Drivers
 The Drivers section is dedicated to managing all the drivers associated with your organization, ensuring efficient and reliable transportation for clients.
 
 * Driver Profiles: Maintain detailed profiles for each driver, including contact information, licenses, and experience.
 * Assignment Tracking: Track which drivers are assigned to which trips.
 * Performance Metrics: Evaluate driver performance based on feedback and trip outcomes.
 
-### Client source
+![Drivers](image/image23.png)
+
+#### Client source
 The Client Source section helps you track and manage the origins of your clients, which is crucial for marketing and business development.
 
-* Source Tracking: Identify and categorize where clients come from (e.g., referrals, online ads, partner agencies).
+* Source Tracking: Identify and categorize where clients come from (e.g., referrals, partner agencies).
 * Analysis Tools: Analyze client source data to understand which channels are most effective.
 
-### Forex
+![client source](image/image24.png)
+
+#### Forex
 The Forex section allows you to manage foreign exchange operations, crucial for handling international clients and transactions.
 
 * Exchange Rates: Monitor and update current exchange rates.
 * Transaction Management: Handle forex transactions efficiently.
 
+![forex](image/image25.png)
 
 ### Trips
 The Trips section is where you manage all your trip-related activities. 
@@ -235,6 +248,9 @@ The Payment Schedule section allows you to plan and manage payment schedules for
 
 ### Export
 The Export section provides tools to generate important documents for your clients with a download option.
+Below is a downloaded receipt from the system in pdf format
+
+![receipt](image/image26.png)
 
 #### Invoice
 Generate detailed invoices for the services provided to your clients.
