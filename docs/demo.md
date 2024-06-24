@@ -2,16 +2,12 @@
 
 Unlock efficiency, enhance communication,and drive growth with our comprehensive platform designed for tour operators and stakeholders.
 
-
-
-## Tour Operations
-
-
-
 To access Safari Gemini landing page, use the [safarigemini.com](https://safarigemini.com)
 
 ![Safari Gemini Landing Page](image/Landing%20Page.png)
 
+
+## Tour Operations
 
 Lets have a view at the Tour Operator Demo 
 
@@ -22,4 +18,7 @@ Lets have a view at the Tour Operator Demo
 * `password` - PKcp9h4Sm76Ekng
 
 
+## Hotel
 
+
+## Transport
